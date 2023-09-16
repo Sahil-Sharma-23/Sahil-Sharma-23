@@ -1,10 +1,18 @@
-- 👋 Hi, I’m Sahil Sharma, my username on github is @stemsarman
-- 👀 I’m interested in programming and development
-- 🌱 I’m currently learning at SICSR
-- 💞️ I’m looking to collaborate on projects developed using java
-- 📫 How to reach me? drop me a mail on stemsarman@gmail.com
+## About Me
 
-<!---
-stemsarman/stemsarman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Sahil Sharma, a passionate developer. My goal is to contribute to the open-source community and share my knowledge with others. Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or suggestions.
+
+- **GitHub:** [GitHub Profile Link](https://github.com/Sahil-Sharma-23)
+- **LinkedIn:** [LinkedIn Profile Link](https://www.linkedin.com/in/stem-sarman)
+- **Website:** [Personal Website Link](https://sahilsharma.online)
+
+---
+
+## Contact
+
+If you'd like to get in touch with me or have any questions, suggestions, or collaboration opportunities, you can reach me through the following channels:
+
+- **Email:** [sahilsharma.lbj23@gmail.com](mailto:sahilsharma.lbj23@gmail.com)
+- **Website:** [Personal Website Link](https://sahilsharma.online)
+
+Thank you for visiting my GitHub repository, and I look forward to connecting with you and collaborating on exciting projects!
