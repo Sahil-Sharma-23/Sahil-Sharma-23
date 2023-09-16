@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-sharma-23&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-sharma-23" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-sharma-23" alt="sahil-sharma-23" /></a> </p>
-
 - 🔭 I’m currently working on **Agent Desktop Using AWS Cloud**
 
 - 🌱 I’m currently learning **React Native**
@@ -32,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-sharma-23&show_icons=true&locale=en&layout=compact" alt="sahil-sharma-23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-sharma-23&show_icons=true&locale=en" alt="sahil-sharma-23" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-sharma-23&" alt="sahil-sharma-23" /></p>
