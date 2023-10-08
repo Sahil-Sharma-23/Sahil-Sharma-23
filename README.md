@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Agent Desktop Using AWS Cloud**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [sahilsharma.online](sahilsharma.online)
 
-- 💬 Ask me about **React, NodeJS, Java, Python, AWS, Wordpress**
+- 💬 Ask me about **ReactJS, NextJS, NodeJS, Java, Python, AWS, Wordpress, Flutter**
 
 - 📫 How to reach me **sahilsharma.lbj23@gmail.com**
 
