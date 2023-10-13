@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sahilsharma.lbj23@gmail.com**
 
-- 📄 Know about my experiences [sahilsharma.online](sahilsharma.online/about)
+- 📄 Know about my experiences [sahilsharma.online](https://www.sahilsharma.online/about)
 
 - ⚡ Fun fact **I've also played basketball at state level**
 
