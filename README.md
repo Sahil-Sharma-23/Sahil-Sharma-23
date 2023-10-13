@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [sahilsharma.online](sahilsharma.online)
+- 👨‍💻 All of my projects are available at [sahilsharma.online](https://www.sahilsharma.online/portfolio)
 
 - 💬 Ask me about **ReactJS, NextJS, NodeJS, Java, Python, AWS, Wordpress, Flutter**
 
 - 📫 How to reach me **sahilsharma.lbj23@gmail.com**
 
-- 📄 Know about my experiences [sahilsharma.online](sahilsharma.online)
+- 📄 Know about my experiences [sahilsharma.online](sahilsharma.online/about)
 
 - ⚡ Fun fact **I've also played basketball at state level**
 
