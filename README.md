@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sahil Sharma</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-sharma-23&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-sharma-23" /> </p>
 
-- 🔭 I’m currently working on **Open source Next.js starter template**
+- 🔭 I’m currently working on **CRM Tool for a client**
 
-- 🌱 I’m currently learning **Docker & Kubernetes**
-
-- 👨‍💻 All of my projects are available at [www.sahilsharma.online](https://www.sahilsharma.online/portfolio)
+- 🌱 I’m currently learning **Kubernetes**
 
 - 💬 Ask me about **Web development & DevOps**
 
 - 📫 How to reach me **sahilsharma.lbj23@gmail.com**
 
-- 📄 Know about my experiences [www.sahilsharma.online/about](https://www.sahilsharma.online/about)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/sahil-sharma-online/)
 
 - ⚡ Fun fact **I'm also a state level basketball players based out of India**
 
